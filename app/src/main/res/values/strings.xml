@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotiAlarmTest</string>
+    <string name="reminders_notification_channel_id">Notification</string>
+    <string name="title_notification_reminder">Alarm Notification</string>
+    <string name="description_notification_reminder">Alarm Notification</string>
+    <string name="reminders_notification_channel_name">Alarm Notification</string>
+</resources>
